@@ -2,3 +2,5 @@ Receh Resolusi
 - Konsisten untuk membuat konten
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Membuat workshop 
+- Kolaborasi dengan lebih banyak ekspert
